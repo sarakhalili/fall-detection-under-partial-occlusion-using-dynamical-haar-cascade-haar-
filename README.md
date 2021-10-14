@@ -12,7 +12,7 @@ These 700272 features are entered into the AdaBoost algorithm, and the top 300 f
 ## Detection phase 
 Finally, we use the SVM classifier to classify the extracted features. SVM is a supervised machine learning algorithm that is very popular due to its high accuracy. The classification task is done in “cross sample” code and again SVM is trained with weighted lost function.
 ### Any Questions?
-If you had any questions about using this code, Please contact Sara Khalili
+If you had any questions about using this code, Please contact [Sara Khalili](sarahkhalili89@gmail.com)
 
 ### Refrences
 [1]	C. Shao et al., "Biased Feature Learning for Occlusion Invariant Face Recognition," in IJCAI, 2020, pp. 666-672.
