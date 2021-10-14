@@ -16,7 +16,9 @@ If you had any questions about using this code, Please contact Sara Khalili
 
 ### Refrences
 [1]	C. Shao et al., "Biased Feature Learning for Occlusion Invariant Face Recognition," in IJCAI, 2020, pp. 666-672.
+
 [2]	P. Viola, M. J. Jones, and D. Snow, "Detecting pedestrians using patterns of motion and appearance," International Journal of Computer Vision, vol. 63, no. 2, pp. 153-161, 2005.
+
 [3]	H. M. Amirreza Razmjoo. (2018). Fall-Detection_Dynamical_haar_Cascade. Available: https://github.com/amrn9674/Fall-Detection_Dynamical_haar_Cascade/tree/master
 
 
