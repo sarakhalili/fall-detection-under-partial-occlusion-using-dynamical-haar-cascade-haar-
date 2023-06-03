@@ -21,8 +21,6 @@ def natural_keys(text):
     return [ atoi(c) for c in re.split(r'(\d+)', text) ]      
 
 fourcc = cv2.VideoWriter_fourcc(*'MJPG')
-# !rm -rf '/content/drive/MyDrive/openpose/circle/full_f10_random/'
-# !mkdir '/content/drive/MyDrive/openpose/circle/full_f10_random/'
 ds_addr= '/content/drive/MyDrive/dataset/original/'
 data_addr='/content/tmp/'
 dest_addr='/content/drive/MyDrive/openpose/square/full_f10/'
